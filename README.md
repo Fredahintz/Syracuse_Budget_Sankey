@@ -16,8 +16,8 @@ Sankey diagrams are a helpful way to visualize budget data.
 As a citizen of the city of Syracuse I thought it would be interesting to see where my tax dollars are going with one of these cool diagrams. 
 
 Tasks: 
- - [x]Retrieve data from datacuse
- - [x]Read it into pandas
+ - [x] Retrieve data from datacuse
+ - [x] Read it into pandas
  - [ ] Convert to Sankey node structure
  - [ ] Visualize in plotly and make edits based on visualization
  - [ ] Hit the datacuse API rather than download the csv file. 
