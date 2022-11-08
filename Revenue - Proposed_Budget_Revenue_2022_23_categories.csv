@@ -1,0 +1,156 @@
+Fund_Name,Dept_Name,Account,Category,Budget,FID
+GENERAL FUND,Surpluses & Balances,"Unreserved, Undesignated","Unreserved, Undesignated Surplus",15630847,1
+GENERAL FUND,Real Property Tax Items,410010 School District Tax Buyout,Assessments,-2291695,2
+GENERAL FUND,Real Property Tax Items,410020 Special Lighting Assessments,Assessments,261200,3
+GENERAL FUND,Real Property Tax Items,410030 Assessable Improvements,Assessments,600000,4
+GENERAL FUND,Real Property Tax Items,410040 Assessable Improvements Buyout,Assessments,-300000,5
+GENERAL FUND,Real Property Tax Items,410810 PILOT - Non-Profit Houses,PILOT,1300000,6
+GENERAL FUND,Real Property Tax Items,410830 PILOT - Ontrack,PILOT,5000,7
+GENERAL FUND,Real Property Tax Items,410840 PILOT - SIDA,PILOT,3409904,8
+GENERAL FUND,Real Property Tax Items,410850 PILOT - SU DOME,PILOT,100000,9
+GENERAL FUND,Real Property Tax Items,410500 Prior Years' Tax Collection,Property Taxes and Fees,3394904,10
+GENERAL FUND,Real Property Tax Items,410900 Fees & Penalties,Property Taxes and Fees,1833136,11
+GENERAL FUND,Real Property Tax Items,425940 Light Works Infrastructure Payment,Property Taxes and Fees,500,12
+GENERAL FUND,Real Property Tax Items,Less: Uncollected City Taxes - Current Year,Tax,-1160000,13
+GENERAL FUND,Non-Property Tax Items,411100 Sales Tax,Sales Tax,112350000,14
+GENERAL FUND,Non-Property Tax Items,411300 Utilities Gross Receipts Tax,Other Taxes,1700000,15
+GENERAL FUND,Non-Property Tax Items,411700 CATV Franchise Fee,Other Taxes,1510000,16
+GENERAL FUND,Non-Property Tax Items,411710 Right of Way Franchise Fee,Other Taxes,61000,17
+GENERAL FUND,Non-Property Tax Items,425910 SU Service Agreement,Syracuse University,500000,18
+GENERAL FUND,Non-Property Tax Items,425920 SU Service - Supplemental,Syracuse University,1500000,19
+GENERAL FUND,Non-Property Tax Items,415900 SU DOME Traffic Reimbursement,Syracuse University,420000,20
+GENERAL FUND,Finance,412300 Abstract Fees,Finance Fees,85000,21
+GENERAL FUND,Finance,412310 Duplicate Tax Bill Fee,Finance Fees,15000,22
+GENERAL FUND,Finance,412320 County Tax Collection Fee,Finance Fees,713640,23
+GENERAL FUND,Finance,415800 Parking Restitution Surcharge,Finance Fees,600000,24
+GENERAL FUND,Finance,415810 Handicapped Parking Surcharge,Finance Fees,15000,25
+GENERAL FUND,Finance,425400 License Comm. Bingo Licenses,Licenses,1000,26
+GENERAL FUND,Finance,425410 Bingo Receipts,Licenses,3500,27
+GENERAL FUND,Finance,425420 License Comm. Games of Chance Receipts,,0,28
+GENERAL FUND,Finance,425450 Licenses,Licenses and Permits,40000,29
+GENERAL FUND,Finance,425470 Licenses Comm. Games of Chance Licenses,,0,30
+GENERAL FUND,Finance,425750 Administrative Adjudication Receipts,Finance Fees,200000,31
+GENERAL FUND,Finance,425950 Service Kill Fees,Finance Fees,40000,32
+GENERAL FUND,Finance,426100 Fines & Penalties Viol/Traffic,Traffic Violation Fines and Penalties,40000,33
+GENERAL FUND,Finance,426610 Sale of Tax Property,Finance Fees,15123,34
+GENERAL FUND,Finance,427500 Parking Ticket Receipts,Parking Ticket Receipts,3000000,35
+GENERAL FUND,Finance,427520 PVB Court Costs/Charges,,0,36
+GENERAL FUND,Finance,427710 Returned Check Fees,,0,37
+GENERAL FUND,Finance,427700 Misc. Receipts,Finance Fees,75000,38
+GENERAL FUND,City Clerk,412550 City Clerk Licenses,,62000,39
+GENERAL FUND,Code Enforcement,415600 Building Inspection Charges,Code Enforcement Charges and Fees,1000,40
+GENERAL FUND,Code Enforcement,415650 Boardup/Cleanup Charges,Code Enforcement Charges and Fees,25000,41
+GENERAL FUND,Code Enforcement,415700 DEMO Charges - Unsafe Building,,0,42
+GENERAL FUND,Code Enforcement,415870 Vacant Property Registry,Code Enforcement Charges and Fees,25000,43
+GENERAL FUND,Code Enforcement,415890 Rental Registry Fees,Code Enforcement Charges and Fees,350000,44
+GENERAL FUND,Code Enforcement,417441 Small Cell Permits,Licenses and Permits,100000,45
+GENERAL FUND,Code Enforcement,425500 Building & Property Permits,Licenses and Permits,1800000,46
+GENERAL FUND,Code Enforcement,425560 Certificate of Compliance,Licenses and Permits,300000,47
+GENERAL FUND,Code Enforcement,425570 Board of Zoning - Appeals,Code Enforcement Charges and Fees,1000,48
+GENERAL FUND,Code Enforcement,422600 Code Enforcement Reimburse-Outside Agencies,Licenses and Permits,55000,49
+GENERAL FUND,Code Enforcement,425700 Building & Property Rehab Electric Lic,Licenses and Permits,35000,50
+GENERAL FUND,Code Enforcement,425710 Building & Property Heating Lic,Licenses and Permits,50000,51
+GENERAL FUND,Code Enforcement,425720 Building & Property Elevator Permits,Licenses and Permits,10000,52
+GENERAL FUND,State Aid,433890 State Aid - Traffic Control Ctr,,0,53
+GENERAL FUND,State Aid,435210 AIM State Aid,State and Federal Aid,71758584,54
+GENERAL FUND,State Aid,435100 State Aid - Highway Maint,State and Federal Aid,170545,55
+GENERAL FUND,Federal Aid,Federal American Relief Plan,,16736551,56
+GENERAL FUND,Miscellaneous Revenue,423040 Onondaga County Lighting Reimbursement,Reimbursements,20000,57
+GENERAL FUND,Miscellaneous Revenue,426550 Bid & Specs Revenue,Reimbursements,2000,58
+GENERAL FUND,Miscellaneous Revenue,426800 Insurance Recoveries,Reimbursements,150000,59
+GENERAL FUND,Miscellaneous Revenue,426900 Misc Compensation for Loss,,0,60
+GENERAL FUND,Miscellaneous Revenue,427000 Medicare Part D Subsidy,,0,61
+GENERAL FUND,Miscellaneous Revenue,428010 Aviation Fund Reimbursements,,0,62
+GENERAL FUND,Miscellaneous Revenue,450350 Transfer from - Water Fund,Transfer from Water Fund,2300000,63
+GENERAL FUND,Miscellaneous Revenue,450360 Transfer from - Sewer Fund,Transfer from Sewer Fund,525000,64
+GENERAL FUND,Miscellaneous Revenue,427110 Premium on Bonds/RANs,,0,65
+GENERAL FUND,Miscellaneous Revenue,450370 Transfer from - Capital Fund,,0,66
+GENERAL FUND,Miscellaneous Revenue,450312 Transfer from - Municipal Sidewalks,Reimbursements,97714,67
+TAX LEVY,Tax Levy,Tax Levy,Taxes,40446694,68
+TAX LEVY,Tax Levy,1% Added Pursuant to Law,Taxes,404467,69
+AVIATION FUND,Aviation,460000 Airport Reimbursements - Operating,Reimbursements,488913,70
+AVIATION FUND,Aviation,461000 Airport Reimbursements - Debt,Reimbursements,257500,71
+WATER FUND,Water,"Unreserved, Undesignated",,958334,72
+WATER FUND,Water,421400 Sale of Water,Water Sales,24675000,73
+WATER FUND,Water,421420 Water Frontage Tax,Water Tax,40000,74
+WATER FUND,Water,421440 Fire Service Installation,Water Fees and Fines,55000,75
+WATER FUND,Water,421450 Lead Pipe Removal,Water Fees and Fines,7000,76
+WATER FUND,Water,421460 Water Turn-on/Turn-off,Water Fees and Fines,30000,77
+WATER FUND,Water,421480 Interest and Penalties,Water Fees and Fines,325000,78
+WATER FUND,Water,421490 Pending Penalties,Water Fees and Fines,365000,79
+WATER FUND,Water,421500 Meter Repairs,Water Fees and Fines,8000,80
+WATER FUND,Water,421510 Infrastructure Improvement Fee,Water Fees and Fines,685000,81
+WATER FUND,Water,424010 Interest of Deposits,Water Fees and Fines,1200,82
+WATER FUND,Water,424100 Rental of Real Property,Water Fees and Fines,50000,83
+WATER FUND,Water,424140 Rental of Equipment,Water Fees and Fines,25000,84
+WATER FUND,Water,425600 Fees/Paving Cuts,Water Fees and Fines,42000,85
+WATER FUND,Water,425900 Water Meter Installation,Water Fees and Fines,15000,86
+WATER FUND,Water,425950 Service Kill Fees,Water Fees and Fines,45000,87
+WATER FUND,Water,426000 Fire Service Maintenance Fee,Water Fees and Fines,380000,88
+WATER FUND,Water,426500 Sale of Scrap Equipment,Water Fees and Fines,30000,89
+WATER FUND,Water,426750 Gain on Disposal of Assets,Water Fees and Fines,35000,90
+WATER FUND,Water,426800 Insurance Recoveries,Water Fees and Fines,75000,91
+WATER FUND,Water,427700 Misc. Receipts,Water Fees and Fines,45000,92
+WATER FUND,Water,427710 Returned Check Fees,Water Fees and Fines,500,93
+SEWER FUND,Sewer,"Unreserved, Undesignated",Unreserved,1668500,94
+SEWER FUND,Sewer,421200 Sewer Rents,Sewer Rent,5400000,95
+SEWER FUND,Sewer,421490 Pending Penalties,Penalties,85000,96
+DOWNTOWN SPECIAL ASSESSMENT,Downtown Special Assessment,Special Assessment - Downtown,Special Assessment - Downtown,1003912,97
+DOWNTOWN SPECIAL ASSESSMENT,Downtown Special Assessment,Fees & Penalties,,0,98
+DOWNTOWN SPECIAL ASSESSMENT,Downtown Special Assessment,Allowance for Uncollected Assessment,Allowance for Uncollected Assessment,20488,99
+CROUSE- MARSHALL SPECIAL ASSESSMENT,Crouse- Marshall Special Assessment,400532 Special Assessment - Crouse Marshall,400532 Special Assessment - Crouse Marshall,113750,100
+CROUSE- MARSHALL SPECIAL ASSESSMENT,Crouse- Marshall Special Assessment,410900 Fees & Penalties,,0,101
+LESS INTERFUND REVENUES,NA,NA,,-2825000,102
+NET TOTAL - ALL FUNDS,NA,NA,,329255311,103
+GENERAL FUND,Code Enforcement,425480 Certificates of Use,Code Enforcement Certificates of Use,100000,104
+GENERAL FUND,Parks & Recreation,420000 Festival Beverage Revenue,,0,105
+GENERAL FUND,Parks & Recreation,420010 P & R Fee & Concessions,Parks and Recreation Fees,750000,106
+GENERAL FUND,Parks & Recreation,420020 Clinton Square Rink Fees,Parks and Recreation Fees,250000,107
+GENERAL FUND,Parks & Recreation,420250 P & R Ballfield Fees,Parks and Recreation Fees,5000,108
+GENERAL FUND,Parks & Recreation,420120 P & R Reimbursement - Outside Agency,Parks and Recreation Fees,0,109
+GENERAL FUND,Parks & Recreation,426110 P & R Animal Control Fines,Parks and Recreation Fees,0,110
+GENERAL FUND,Fire,415380 Fire Reimbursement - Outside Agencies,Fire Reimbursement - Outside Agencies,20000,111
+GENERAL FUND,Fire,415400 Fire- Reports & Records,Fire - Reports & Records,8000,112
+GENERAL FUND,Fire,422620 EMS Reimbursement - New York State,EMS Reimbursement - New York State,10000,113
+GENERAL FUND,Police,"415200 Police Reports, Records & Fingerprints",Police Fees,20000,114
+GENERAL FUND,Police,415940 Police Auctioned Evidence,,0,115
+GENERAL FUND,Police,412110 City Court Criminal Div,Police Fees,20000,116
+GENERAL FUND,Police,415880 Annual Alarm Fee,Police Fees,100000,117
+GENERAL FUND,Police,415910 Police Services - Outside Agencies,Police Fees,950000,118
+GENERAL FUND,Police,415930 Police Training Classes Rev,,0,119
+GENERAL FUND,Police,415950 Police Unclaimed Property,Police Fees,80000,120
+GENERAL FUND,Police,427150 City Court Bail Forfeitures,,0,121
+GENERAL FUND,Law,412200 Housing Court Fines,Housing Court Fines,300000,122
+GENERAL FUND,Public Works,417100 DPW Charges for Services,DPW Fees,40000,123
+GENERAL FUND,Public Works,417110 DPW Paving Cuts - Non-Refund,DPW Fees,500000,124
+GENERAL FUND,Public Works,417120 DPW Charges - Outside Agencies,DPW Fees,55000,125
+GENERAL FUND,Public Works,417140 DPW Liability Waiver Permit,DPW Fees,5000,126
+GENERAL FUND,Public Works,417150 DPW Block Party Revenue,DPW Fees,3000,127
+GENERAL FUND,Public Works,417200 Parking Lots,Parking Lots and Garages,23000,128
+GENERAL FUND,Public Works,417270 Fayette St Garage,Parking Lots and Garages,600000,129
+GENERAL FUND,Public Works,417280 Madison Irving Garage,Parking Lots and Garages,525000,130
+GENERAL FUND,Public Works,417290 Harrison St Garage,Parking Lots and Garages,400000,131
+GENERAL FUND,Public Works,417310 Washington St Garage,Parking Lots and Garages,480000,132
+GENERAL FUND,Public Works,417320 Armory Square Garage,Parking Lots and Garages,200000,133
+GENERAL FUND,Public Works,417330 ONCenter Parking Garage,Parking Lots and Garages,200000,134
+GENERAL FUND,Public Works,417340 MONY Parking Garage,Parking Lots and Garages,710000,135
+GENERAL FUND,Public Works,417400 Parking Meter Receipts,Parking Lots and Garages,2300000,136
+GENERAL FUND,Public Works,417420 DPW Loading Zone Permits,Licenses and Permits,2000,137
+GENERAL FUND,Public Works,417430 DPW Sidewalk Permits,Licenses and Permits,3600,138
+GENERAL FUND,Public Works,417440 DPW Sidewalk Cafe Permits,Licenses and Permits,1000,139
+GENERAL FUND,Public Works,421300 Recycling Revenues,Recycling and Garbage Fees,10000,140
+GENERAL FUND,Public Works,421310 Refuse & Garbage Charges,Recycling and Garbage Fees,15000,141
+GENERAL FUND,Public Works,423010 DPW Charges - Other Gov't,Recycling and Garbage Fees,72000,142
+GENERAL FUND,Public Works,427730 Parking Garage Registration,Recycling and Garbage Fees,7000,143
+GENERAL FUND,Assessment,426620 Title Work,Assessment Title Work,24000,144
+GENERAL FUND,Assessment,426630 Appraisal Fees,,0,145
+GENERAL FUND,Use of Money & Property,424010 Interest of Deposits,Interest of Deposits,35000,146
+GENERAL FUND,Use of Money & Property,424020 Bankruptcy Fees,Bankruptcy Fees,35000,147
+GENERAL FUND,Use of Money & Property,424100 Rental of Real Property,Rental of Real Property,40000,148
+GENERAL FUND,Use of Money & Property,424140 Rental of Equipment,,0,149
+GENERAL FUND,Sale of Property,426500 Sale of Scrap Equipment,Sale of Scrap Equipment,10000,150
+GENERAL FUND,Sale of Property,426750 Gain on Disposal of Assets,Gain on Disposal of Assets,1000000,151
+GENERAL FUND,State Aid,430000 State Aid - Misc,,0,152
+GENERAL FUND,State Aid,430050 State Aid - Mortgage Tax,State Aid - Mortgage Tax,1100000,153
+GENERAL FUND,State Aid,430080 State Aid - State Highway Aid,State Highway Aid,3000000,154
+GENERAL FUND,State Aid,438200 State Aid - Youth Projects,State Youth Project Aid,48000,155
