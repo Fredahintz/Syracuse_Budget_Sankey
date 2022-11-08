@@ -24,3 +24,10 @@ Tasks:
  - [ ] Generalize and compare to previous budgets
  - [ ] Highlight Interesting Insights. 
  - [ ] Is it possible to animate them? 
+
+
+
+What are the interesting insights? 
+
+ - Police and Fire Departments are the largest expenditure by far.
+ - Most of the revenue comes from non-property tax or state aid, though a substantial amount comes from a variety of sources. 
