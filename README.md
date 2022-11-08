@@ -18,9 +18,9 @@ As a citizen of the city of Syracuse I thought it would be interesting to see wh
 Tasks: 
  - [x] Retrieve data from datacuse
  - [x] Read it into pandas
- - [ ] Convert to Sankey node structure
- - [ ] Visualize in plotly and make edits based on visualization
- - [ ] Hit the datacuse API rather than download the csv file. 
+ - [x] Convert to Sankey node structure
+ - [x] Visualize in plotly and make edits based on visualization
+ - [x] Hit the datacuse API rather than download the csv file. 
  - [ ] Generalize and compare to previous budgets
  - [ ] Highlight Interesting Insights. 
  - [ ] Is it possible to animate them? 
